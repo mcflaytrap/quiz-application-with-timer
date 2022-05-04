@@ -42,7 +42,7 @@ let questions = [
     answer: "WHEN YOU GO SOMEWHERE FOR THE DAY, WOULD YOU RATHER",
     options: [
       "Plan what you will and when",
-      "Just Go!"
+      "Just Go!!"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
