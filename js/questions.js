@@ -47,7 +47,8 @@ RATHER",
       "B. DO IT IN THE ACCEPTED WAY?"
     ]
   },
-   {
+
+  {
     numb: 6,
     question: "AMONG YOUR FRIENDS ARE YOU..",
     answer: "AMONG YOUR FRIENDS ARE YOU",
@@ -260,6 +261,220 @@ AGAINST TIME, OR",
     ]
   },
 
+    {
+    numb: 27,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. SCHEDULED",
+      "B. UNPLANNED"
+    ]
+  },
+    {
+    numb: 28,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. FACTS",
+      "B. IDEAS"
+    ]
+  },
+    {
+    numb: 29,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. QUIET",
+      "B. HEARTY"
+    ]
+  },
+  {
+    numb: 30,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. CONVINCING",
+      "B. TOUCHING"
+    ]
+  },
+  {
+    numb: 31,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. IMAGINATIVE",
+      "B. MATTER-OF-FACT"
+    ]
+  },
+  {
+    numb: 32,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. BENEFITS",
+      "B. BLESSINGS"
+    ]
+  },
+  {
+    numb: 33,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. PEACEMAKER",
+      "B. JUDGE"
+    ]
+  },
+  {
+    numb: 34,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. SYSTEMATIC",
+      "B. SPONTANEOUS"
+    ]
+  }, {
+    numb: 35,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. STATEMENT",
+      "B. CONCEPT"
+    ]
+  },
+  {
+    numb: 36,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. RESERVED",
+      "B. TALAKATIVE"
+    ]
+  },
+  {
+    numb: 37,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. ANALYZE",
+      "B. SYMPATHIZE"
+    ]
+  },
+    {
+    numb: 38,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. CREATE",
+      "B. MAKE"
+    ]
+  },
+    {
+    numb: 39,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. DETERMINED",
+      "B. DEVOTED"
+    ]
+  },
+    {
+    numb: 40,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. GENTLE",
+      "B. FIRM"
+    ]
+  },
+    {
+    numb: 41,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. SYSTEMATIC",
+      "B. CASUAL"
+    ]
+  },
+  {
+    numb: 42,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. CERTAINTY",
+      "B. THEORY"
+    ]
+  },
+  {
+    numb: 43,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. CALM",
+      "B. LIVELY"
+    ]
+  },
+  {
+    numb: 44,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. JUSTICE",
+      "B. MERCY"
+    ]
+  },
+  {
+    numb: 45,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. FASCINATING",
+      "B. SENSIBLE"
+    ]
+  },
+  {
+    numb: 46,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. FIRM-MINDED",
+      "B. WARM HEARTED"
+    ]
+  }, {
+    numb: 47,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. FEELING",
+      "B. THINKING"
+    ]
+  },
+  {
+    numb: 48,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. LITERAL",
+      "B. FIGURATIVE"
+    ]
+  },
+  {
+    numb: 49,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. ANTICIPATION",
+      "B. COMPASSION"
+    ]
+  },
+  {
+    numb: 50,
+    question: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?..",
+    answer: "WHICH WORD IN EACH PAIR APPEALS TO YOU MORE?",
+    options: [
+      "A. HARD",
+      "B. SOFT"
+    ]
+  }
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
